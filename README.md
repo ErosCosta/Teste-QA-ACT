@@ -1,4 +1,4 @@
-# Projeto de Testes Automatizados — Ajustado
+# Projeto de Testes Automatizados — Front
 
 **O que foi feito**
 - Adicionado `.env` com `BASE_URL` e `STORIES_URL` (valores padrão).
