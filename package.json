@@ -1,0 +1,13 @@
+{
+  "name": "qa-tests-act-patch",
+  "version": "1.0.0",
+  "scripts": {
+    "cy:run": "npx cypress run",
+    "cy:open": "npx cypress open",
+    "test": "npm run cy:run"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^10.1.0",
+    "cypress": "^15.7.0"
+  }
+}
