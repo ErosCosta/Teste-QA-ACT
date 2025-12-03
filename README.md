@@ -49,7 +49,7 @@ npm run story-test
 ## Estrutura adicionada
 - `.env` — variáveis de ambiente usadas pelos scripts.
 - `scripts/validate-links.js` — verifica links do menu principal a partir de `BASE_URL`.
-- `cypress/e2e/web-stories.spec.js` — teste Cypress que visita `STORIES_URL` e tenta abrir/fechar uma story.
+- `cypress/e2e/web-stories.spec.js` — teste Cypress que visita `STORIES_URL` e tenta abrir/fechar uma story. ***ESSE TESTE FOI ADICIONADO COM ERRO, POIS FOI UM BUG ENCONTRADO DURANTE A CRIAÇÃO DO PROJETO!***
 - `.github/workflows/ci.yml` — workflow para CI (Node + Cypress headless).
 
 ## Observações técnicas
