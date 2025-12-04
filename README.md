@@ -59,7 +59,3 @@ npm run story-test
 
 ## Pipeline (exemplo GitHub Actions)
 O workflow `.github/workflows/ci.yml` instala dependências e roda `npm test` em ubuntu-latest. Veja o arquivo no repositório para os detalhes.
-
----
-
-Se quiser, faço os ajustes finos nos seletores do Cypress e melhoro a validação dos links com relatórios (Allure / HTML) — diga quais arquivos do projeto você já possui e eu ajusto diretamente para o avaliador.
